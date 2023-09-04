@@ -1,7 +1,7 @@
 {
   "name": "assert-lite",
   "version": "1.0.0",
-  "description": "Assertion groups made easy via a one-liner function -- like console.assert(but_drastically_improved, [ with, multiple, assertions, and, ()=> functions_too ] )",
+  "description": "Assertion groups made easy via a one-liner function call -- like using console.assert(but_drastically_improved, [ allowing, multiple, assertions, and, ()=> functions_too ] )",
   "main": "assert-lite.js",
   "scripts": {
     "test": "node ./assert-lite.test.js && echo.Tests completed, 3 passed as expected."
